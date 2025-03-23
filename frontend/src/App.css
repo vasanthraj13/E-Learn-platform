@@ -1,0 +1,24 @@
+.course-list-container {
+  padding: 20px;
+}
+
+.course-list-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.course-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.course-table th, .course-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.course-table th {
+  background-color: #f2f2f2;
+}
